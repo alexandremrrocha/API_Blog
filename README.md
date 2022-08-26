@@ -1,2 +1,2 @@
 # Blog do código
-> Um blog simples em Node.js
+> Um blog simples em Node.js projeto em andamento...
