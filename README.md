@@ -1,7 +1,6 @@
 # Blog do código
 
-API para um blog, com autenticação, criptografia
-e varias validações projeto em andamento...
+API para um blog, com autenticação, criptografia e varias validações projeto em andamento...
 
 ## Stack utilizada
 
@@ -18,6 +17,7 @@ e varias validações projeto em andamento...
 - JWT
 - Passport
 - SQLite
+- Dotenv
 
 ## Rodando localmente
 
@@ -30,6 +30,9 @@ e varias validações projeto em andamento...
 ```bash
   npm install
 ```
+
+- Crie um arquivo .env com a CHAVE_JWT
+
 - Inicie o servidor
 
 ```bash
