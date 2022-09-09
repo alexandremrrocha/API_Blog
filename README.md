@@ -10,6 +10,7 @@ API para um blog, com autenticação, criptografia e varias validações projeto
 - JWT
 - Passport
 - SQLite
+- Redis
 
 ## Aprendizados
 
@@ -18,6 +19,7 @@ API para um blog, com autenticação, criptografia e varias validações projeto
 - Passport
 - SQLite
 - Dotenv
+- Redis
 
 ## Rodando localmente
 
@@ -33,7 +35,14 @@ API para um blog, com autenticação, criptografia e varias validações projeto
 
 - Crie um arquivo .env com a CHAVE_JWT
 
-- Inicie o servidor
+- Instale o Redis na sua maquina
+
+- Inicie o servidor redis
+
+```bash
+  redis-server
+```
+- Inicie o servidor node
 
 ```bash
   npm run dev
