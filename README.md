@@ -1,6 +1,6 @@
 # Blog do código
 
-API para um blog, com autenticação, criptografia e varias validações projeto em andamento...
+Uma API para um blog, com autenticação através de JWT, criptografia de dados e varias validações!
 
 ## Stack utilizada
 
